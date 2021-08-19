@@ -134,6 +134,7 @@
 .form button {
   background: none;
   padding: 8px 40px;
+  cursor: pointer;
 }
 
 .orcamento_dados {
@@ -153,6 +154,10 @@
   font-size: 18px;
   line-height: 30px;
   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.orcamento_dados span:nth-of-type(2) {
+  margin-bottom: 40px;
 }
 
 .dados_email {
