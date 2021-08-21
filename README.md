@@ -1,5 +1,5 @@
 <img src="./img/demo-min.png">
-<br/><br/>
+<br/>
 
 # **[Bikcraft](https://ranyery.github.io/bikcraft-origamid/)** 🚴‍♀️
 Bikcraft é uma empresa fictícia que vende bicicletas personalizadas. O projeto foi desenvolvido durante o curso [Web Design Completo da Origamid](https://www.origamid.com/curso/web-design-completo/). O site institucional é responsivo e se adapta ao formato de diversos dispositivos e tamanhos de tela, sem distorções ou perdas de informação. **[Clique aqui para acessar](https://ranyery.github.io/bikcraft-origamid/)**.
