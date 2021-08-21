@@ -57,6 +57,10 @@
 		border-color: #fff;
 	}
 
+	.header_menu ul li a.menu_ativo {
+		border-color: #fff;
+	}
+
 	/* Introdução */
 	.introducao {
 		margin-top: 0;
@@ -67,6 +71,10 @@
 
 	.introducao h1 {
 		font-size: 36px;
+	}
+
+	.introducao-interna {
+		margin-top: 0px;
 	}
 
 	/* CTA */
@@ -81,6 +89,23 @@
 
 	.qualidade_lista {
 		overflow: inherit;
+	}
+
+	.qualidade ul li p {
+		font-size: 16px;
+		line-height: 22px;
+	}
+
+	/* Página Sobre */
+	.missao_sobre p {
+		font-size: 16px;
+		line-height: 22px;
+		padding-right: 0px;
+	}
+
+	.missao_sobre ul li {
+		font-size: 16px;
+		line-height: 22px;
 	}
 
 }
